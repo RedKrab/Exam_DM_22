@@ -1,0 +1,17 @@
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\bin\Debug\net6.0-windows\Exam_22.exe
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\bin\Debug\net6.0-windows\Exam_22.deps.json
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\bin\Debug\net6.0-windows\Exam_22.runtimeconfig.json
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\bin\Debug\net6.0-windows\Exam_22.dll
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\bin\Debug\net6.0-windows\Exam_22.pdb
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.csproj.AssemblyReference.cache
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.Form1.resources
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.csproj.GenerateResource.cache
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.AssemblyInfoInputs.cache
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.AssemblyInfo.cs
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.csproj.CoreCompileInputs.cache
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.dll
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\refint\Exam_22.dll
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.pdb
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\Exam_22.genruntimeconfig.cache
+d:\users\is13091\Desktop\Данилов Экзамен 22.04.23\Exam_22\obj\Debug\net6.0-windows\ref\Exam_22.dll
